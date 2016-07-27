@@ -22,7 +22,7 @@ cancelButtonTitle:NSLocalizedString(@"Ok", @"OK") otherButtonTitles:nil] show];
 #define TABLE_NAME @"savedTrip"
 
 
-#define GOOGLE_MAP_URL @"https://maps.googleapis.com/maps/api/directions/json?origin=<start>&destination=<stop>&<depart_type>=<depart_time>&mode=transit&alternatives=true&key=AIzaSyCAbiRAqhQOANyYgD65N6-a00K4kDKRcWo"
+#define GOOGLE_MAP_URL @"https://maps.googleapis.com/maps/api/directions/json?origin=<start>&destination=<stop>&<depart_type>=<depart_time>&mode=transit&alternatives=true&key="
 
 
 static NSString * letters =  @"abcdefghijklmnopqrstuvwxyz";
