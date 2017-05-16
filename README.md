@@ -21,7 +21,7 @@ https://itunes.apple.com/au/app/next-bus-brisbane/id931252910?mt=8
 
 ## Authors
 
-* **Bo Wang** - *Initial work* - [Bo Wang's Software](https://thebosoftware.com)
+* **Bo Wang** - *Initial work* - [Bo Wang's Software](http://thebosoftware.com)
 I am freelancer, if you want create a app like this, please contact me. My rate is $70+GST per hour.
 
 ## Screenshots
