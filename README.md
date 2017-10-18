@@ -15,7 +15,7 @@ https://itunes.apple.com/au/app/next-bus-brisbane/id931252910?mt=8
 
 
 ### Prerequisities
-1. You mush understand GTFS file structure.
+1. You understand GTFS file structure.
 2. You know how to covert GTFS zip file to mysql database.
 3. You need a cloud server or web server which is supporting php.
 
